@@ -1,0 +1,15 @@
+.vscode
+lib/*.jar
+.idea
+.class
+**/target/*
+/target/*
+*.iml
+*.DS_Store
+/src
+/jars
+/classes
+go.bat
+apps/simpleFtpServer/src/main/resources/users.properties
+apps/processManager/src/main/resources/commands.properties
+apps/processManager/src/main/resources/commands.json
